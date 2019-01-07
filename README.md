@@ -9,7 +9,7 @@
 
 - [Windows Setup for Developers](https://github.com/denisecase/windows-setup)
 - [Windows File Management](https://github.com/denisecase/windows-file-management)
-- [Set up Windows with Chocolatey (for Web Development)](https://github.com/denisecase/get-setup-with-chocolatey-dotnet)
+- [Set up Windows with Chocolatey (for Web Development)](https://github.com/denisecase/get-setup-with-chocolatey)
 
 ## .NET Setup
 
