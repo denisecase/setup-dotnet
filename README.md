@@ -11,7 +11,7 @@
 - [Windows File Management](https://github.com/denisecase/windows-file-management)
 - [Set up Windows with Chocolatey (for Web Development)](https://github.com/denisecase/get-setup-with-chocolatey)
 
-## .NET Setup
+## .NET Installs
 
 To install the following:
 
@@ -32,20 +32,20 @@ choco install visualstudio2017-workload-netweb -y
 
 ```
 
-## For Blazor
+## Install Visual Studio Extensions
 
-Install:
+Install from the VS Marketplace:
 
-- [Visual Studio Blazor Language Services](https://marketplace.visualstudio.com/items?itemName=aspnet.blazor) extension (from the Visual Studio Marketplace).
-- Blazor templates - run the following in Powershell:
+- [Microsoft Visual Studio Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsls-vs) extension
+- [Visual Studio Blazor Language Services](https://marketplace.visualstudio.com/items?itemName=aspnet.blazor) extension
+
+## Install Blazor Templates
+
+Run the following in Powershell:
 
 ```Powershell
 dotnet new -i Microsoft.AspNetCore.Blazor.Templates
 ```
-
-## Installing Without Chocolatey
-
-Alternatively, each tool can be installed in the traditional manner. Just go to the website for the software and follow instructions to download, install, and configure tools using provided installers.
 
 ## Terms
 
