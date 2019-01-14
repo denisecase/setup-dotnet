@@ -67,3 +67,10 @@ Configure Git distributed version control system
 -[Chocolatey Gallery](https://chocolatey.org/packages)
 -[Live Share](https://visualstudio.microsoft.com/services/live-share/)
 -[Microsoft .NET](https://dotnet.microsoft.com/)
+
+## Videos to Get Started with Visual Studio
+
+- [Getting Started with Visual Studio 2017 – Install and setup your new IDE](https://www.youtube.com/watch?v=R6dZJ-FEypk)
+- [Web Development in Visual Studio 2017](https://www.youtube.com/watch?v=gfjFJ-v_h2s)
+
+
