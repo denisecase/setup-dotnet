@@ -11,6 +11,10 @@
 - [Windows File Management](https://github.com/denisecase/windows-file-management)
 - [Set up Windows with Chocolatey (for Web Development)](https://github.com/denisecase/get-setup-with-chocolatey)
 
+## Recommended Tools
+
+- [Visual Studio Dev Essentials](https://visualstudio.microsoft.com/dev-essentials/)
+
 ## .NET Installs
 
 To install the following:
