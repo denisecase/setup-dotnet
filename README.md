@@ -67,10 +67,10 @@ Configure Git distributed version control system
 
 ## References
 
--[Blazor Docs](https://blazor.net/docs/get-started.html)
--[Chocolatey Gallery](https://chocolatey.org/packages)
--[Live Share](https://visualstudio.microsoft.com/services/live-share/)
--[Microsoft .NET](https://dotnet.microsoft.com/)
+- [Blazor Docs](https://blazor.net/docs/get-started.html)
+- [Chocolatey Gallery](https://chocolatey.org/packages)
+- [Live Share](https://visualstudio.microsoft.com/services/live-share/)
+- [Microsoft .NET](https://dotnet.microsoft.com/)
 
 ## Videos to Get Started with Visual Studio
 
